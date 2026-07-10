@@ -97,7 +97,7 @@
 鏈〉姣忓搴︽鏌ヤ竴娆★紝鎴栧湪閾炬帴澶辨晥銆佽鍙彉鍖栥€侀」鐩仠姝㈢淮鎶ゆ椂绔嬪嵆鏇存柊銆傛柊澧炴潯鐩繀椤昏鏄庯細鏈烘瀯銆佽祫婧愮敤閫斻€佸彈浼椼€佽瑷€銆佽鍙彁绀恒€佽闂棩鏈熷拰灞€闄愩€傚鑸帹鑽愮殑鏄叆鍙ｏ紝涓嶆浛浠ｅ鍏蜂綋鏉愭枡鐨勫鏌ャ€?
 鏈€鍚庢鏌ワ細2026-07-10銆?'@
 
-$guide = @'
+$guideText = @'
 # 濡備綍浣跨敤鍏叡鐭ヨ瘑瀵艰埅
 
 ## 鍏堟壘鐩爣锛屽啀閫夎祫婧?
@@ -111,7 +111,7 @@ $guide = @'
 ## 鎺ㄨ崘鐨勫涔犱骇鍑?
 姣忔浣跨敤澶栭儴璧勬簮鍚庯紝浜у嚭涓€椤?KnowledgeCivic 鐭ヨ瘑鍗★細闂銆佸叧閿蹇点€佷笁鏉″彲鏍搁獙浜嬪疄銆佷竴涓笉纭畾鐐广€佹潵婧愩€佽鍙€佹渶鍚庢鏌ユ棩鏈熴€?'@
 
-$maintenance = @'
+$maintenanceText = @'
 # Navigation Maintenance
 
 ## Curation standard
@@ -127,7 +127,7 @@ $maintenance = @'
 
 姣忓搴﹀叏闈㈡鏌ヤ竴娆★紱楂樺彉鍖栭鍩熷拰鏁版嵁鍏ュ彛姣忔湀鎶芥煡锛涚敤鎴锋姤鍛婄殑澶辨晥閾炬帴搴斿湪涓嬩竴涓淮鎶ゅ懆鏈熷墠澶勭悊銆?'@
 
-$root = @'
+$rootText = @'
 # Navigation added
 
 KnowledgeCivic now includes a curated [Public Knowledge Navigation](https://github.com/KnowledgeCivic/knowledgecivic-commons/blob/main/navigation/public-knowledge-navigation.md) covering open education, civic and human-rights learning, media literacy, open data, research, cultural heritage, and licensing.
